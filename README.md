@@ -9,4 +9,4 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 
-Hello world, I'm a junior developer and currently in alternation with the [O'clock](https://oclock.io/) school and the [Syspertec](https://www.syspertec.fr/) enterprise
+Hello world, I'm a junior developer and currently in alternation with the [O'clock](https://oclock.io/) school and the [Syspertec](https://www.syspertec.fr/) compagny
